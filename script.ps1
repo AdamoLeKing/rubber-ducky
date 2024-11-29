@@ -1,5 +1,5 @@
 # URL of the Google Drive file
-$url = "https://drive.google.com/uc?export=download&id=1PNwK3Wwxi4oasUQXF01N-xk7lDSm82O2"
+$url = "https://raw.githubusercontent.com/AdamoLeKing/rubber-ducky/refs/heads/main/son.wav"
 
 # Destination path for the file
 $destinationPath = "C:\Windows\Media\CustomUSBConnect.wav"
